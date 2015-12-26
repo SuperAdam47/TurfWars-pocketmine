@@ -1,0 +1,14 @@
+name: TurfWars
+api: 1.12.0
+version: 1.0.1
+main: tufwars\Main
+load: POSTWORLD
+author: EmreTr1
+website: not found
+
+
+commands:
+ sg:
+  permission: survivalgame.command.sg
+  description: SurvivalGame Main Command
+  usage: /tw <join|remove|create|leave|help>
