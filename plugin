@@ -9,6 +9,6 @@ website: not found
 
 commands:
  turfwars:
-  permission: tufwars.command.sg
+  permission: tufwars.command.tw
   description: TurfWars Main Command
   usage: /tw <join|remove|create|leave|help>
