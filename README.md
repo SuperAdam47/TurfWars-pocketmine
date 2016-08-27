@@ -10,7 +10,7 @@ please wait to be done :)
               TURF WARS-POCKETMİNE = %46
               -------------------------
           OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-        OO    3       S  1   O   M  7         OO
-        OO D      O      2   O       O    5   OO
-        OO   8   OOOO      6       OOO    K   OO
-        OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+        OO    7.       S  9   O   M  7       OO
+        OO D      O      2   O       O  2    OO
+        OO   8   OOOO      0      OOO    K   OO
+        OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
